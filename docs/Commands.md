@@ -1,6 +1,6 @@
 ---
-id: commands
-title: Commands
+id: اوامر
+title: اوامر
 ---
 
 :::info Note
